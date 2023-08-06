@@ -4,7 +4,7 @@
 
 |key|value|
 |----|----|
-|名前|仁木 崇陽(Takaharu Niki)|
+|名前|Takaharu Niki|
 |現在地|大阪市|
 |ブログ|[アントレプログラマー](https://entreprogrammer.jp/)
 |Twitter|[@takaharu_niki](https://twitter.com/takaharu_niki)|
