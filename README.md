@@ -9,7 +9,6 @@
 |ブログ|[アントレプログラマー](https://entreprogrammer.jp/)
 |Twitter|[@takaharu_niki](https://twitter.com/takaharu_niki)|
 |趣味|筋トレ・読書（小説と漫画）・アニメ|
-|野望|猫を飼える新築賃貸に住む|
 
 ## 概要
 
@@ -22,7 +21,7 @@
 
 ### 宅食サービス事業会社(2021/09〜現在)
 
-AWS CodeDeployのAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07〜現在)
+AWS CodeDeployを使ったAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07〜現在)
 
 【プロジェクト概要】カナリアリリース等を目的に、DevOpsエンジニアとして技術選定と実施を担当。
 
@@ -39,17 +38,17 @@ AWS CodeDeployのAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07〜現在
 - 各インスタンスの差分を確認し、masterを最新化
 - 各インスタンスへgit clone
 
+［担当業務］CodeDeployの導入。具体的には下記。
+- バッチサーバー用EC2インスタンスのデプロイ方法を、CodeDeployのインプレースデプロイへ変更
+- CodePipeline・GitHub　Actionsを使用したデプロイ順序制御により、並列DBマイグレーションのエラーを回避
+
 <!---
+
+AMI、Webサーバー
 
 ［担当業務］VPC設計
 
 ［担当業務］NAT　gatewaysの導入
-
-［担当業務］CodeDeployの導入
-
-［担当業務］CodeDeployの導入
-
-［担当業務］AMIの導入
 
 --->
 
