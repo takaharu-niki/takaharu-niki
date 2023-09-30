@@ -88,6 +88,7 @@ ECサイト・管理画面の機能開発【Laravel/JavaScript/AWS】(2021/09〜
 - ジョブの同期実行を目的としたメールコンテナの追加
 - シークレットの管理のためにSecrets Managerを使用
 - Secrets ManagerのシークレットをECSのタスク定義のsecretsに設定し、Spring Boot内で利用
+- Findy Team+を使った、DevOps FourKeysの分析・改善
 
 ### レンタルサーバー事業会社(2019/09〜2021/08)
 
