@@ -21,17 +21,19 @@
 
 ### 宅食サービス事業会社(2021/09〜現在)
 
-<!---
-
-Laravelのアップグレード【Laravel】(2023/12〜現在)
+Laravelのアップグレード【Laravel】(2023/12)
 
 【プロジェクト概要】Laravelアップグレードにおける計画と実行。
 
 ［担当業務］具体的には下記。
+- 自動ツールLaravel Shiftの採用と実行
+- Laravel Upgrade Guideに基づいた確認と修正。
+- カナリアリリースを用いた影響を抑えたリリースの実施
 
---->
+postメソッドのAjax通信やモバイルアプリに不具合が発生した。
+原因はセッションとキャッシュ用に同一ストレージを採用しているとアプリケーションはキャッシュを通してセッションデータを取得するが、キャッシュのキーに付与するプレフィックス変更を許容していたため。
 
-AWS CodeDeployを使ったAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07〜現在)
+AWS CodeDeployを使ったAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07〜11)
 
 【プロジェクト概要】カナリアリリース等を目的に、DevOpsエンジニアとして技術選定と実施を担当。
 
@@ -51,16 +53,7 @@ AWS CodeDeployを使ったAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07
 ［担当業務］CodeDeployの導入。具体的には下記。
 - バッチサーバー用EC2インスタンスのデプロイ方法を、CodeDeployのインプレースデプロイへ変更
 - CodePipeline・GitHub　Actionsを使用したデプロイ順序制御により、並列DBマイグレーションのエラーを回避
-
-<!---
-
-AMI、Webサーバー
-
-［担当業務］VPC設計
-
-［担当業務］NAT　gatewaysの導入
-
---->
+- Webサーバー用EC2インスタンスのデプロイ方法を、CodeDeployのAutoScalingグループを使用したブルーグリーンデプロイへ変更
 
 入金消込システムの開発【Kotlin/Spring Boot/React/Laravel/AWS】(2023/04〜2023/06)
 
