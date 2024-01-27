@@ -21,7 +21,7 @@
 
 ### 宅食サービス事業会社(2021/09〜現在)
 
-Laravelのアップグレード【Laravel】(2023/12)
+Laravelのアップグレード【Laravel】(2023/12〜現在)
 
 【プロジェクト概要】Laravelアップグレードにおける計画と実行。
 
@@ -33,7 +33,7 @@ Laravelのアップグレード【Laravel】(2023/12)
 postメソッドのAjax通信やモバイルアプリに不具合が発生した。
 原因はセッションとキャッシュ用に同一ストレージを採用しているとアプリケーションはキャッシュを通してセッションデータを取得するが、キャッシュのキーに付与するプレフィックス変更を許容していたため。
 
-AWS CodeDeployを使ったAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07〜11)
+AWS CodeDeployを使ったAuto Scaling対応【Fluentd/Datadog/S3/EC2/CodePipeline/CodeDeploy/CloudFormation】(2023/07〜11)
 
 【プロジェクト概要】カナリアリリース等を目的に、DevOpsエンジニアとして技術選定と実施を担当。
 
@@ -43,8 +43,6 @@ AWS CodeDeployを使ったAuto Scaling対応【Fluentd/Datadog/S3/EC2】(2023/07
 - EC2からS3への転送方法を調査・決定
 - Fluentdのインストール、設定ファイルの作成、S３バケットへの転送確認
 - Datadogの設定ファイル作成、Datadogへの転送確認
-- S3にバケット作成、バケットの命名ルール策定
-- EC2からS3バケットへアクセスできるIAMポリシー・ロールを作成、アタッチ
 
 ［担当業務］EC2内の設定ファイルをGitHubで管理。具体的には下記。
 - 各インスタンスの差分を確認し、masterを最新化
