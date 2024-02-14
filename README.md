@@ -7,8 +7,8 @@
 |名前|Takaharu Niki|
 |現在地|大阪市|
 |ブログ|[アントレプログラマー](https://entreprogrammer.jp/)
-|Twitter|[@takaharu_niki](https://twitter.com/takaharu_niki)|
-|趣味|筋トレ・読書（小説と漫画）・アニメ|
+|X(Twitter)|[@takaharu_niki](https://twitter.com/takaharu_niki)|
+|趣味|筋トレ・アニメ|
 
 ## 概要
 
