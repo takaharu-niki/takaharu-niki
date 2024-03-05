@@ -17,6 +17,14 @@
 - フロントエンド開発はNext.jsの経験があります。
 - GitHub　ActionsやAWSを利用したCI/CD環境構築等のDevOps業務の経験があります。
 
+### 得意技術
+
+得意
+PHP, Laravel, MySQL, AWS, GitHub Actions
+
+可能
+Python, Kotlin, Spring Boot, javaScript, TypeScript, Next.js, React, Docker, Nginx
+
 ## 主な業務経歴
 
 ### 宅食サービス事業会社(2021/09〜現在)
