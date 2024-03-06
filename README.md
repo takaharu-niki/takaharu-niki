@@ -53,6 +53,7 @@ Docker | Jenkins | Fluentd | Ansible | Nginx | Apache | Gulp | Webpack | SASS
 - コンテナ化(Docker化)
 - オートスケールの設定
 - デプロイの自動化
+- 変更に強い設計
 
 ## 主な業務経歴
 
