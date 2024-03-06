@@ -18,7 +18,7 @@ PHP || Python | Kotlin | Java | JavaScript || Go | TypeScript
 
 ### フレームワーク
 
-Laravel || Spring Boot | CakePHP | Next.js | React | Vue.js
+Laravel || Spring Boot | CakePHP | Next.js | React | Vue.js | jQuery
 
 ### RDB/NoSQL
 
