@@ -1,4 +1,4 @@
-# 業務経歴書
+# スキルシート
 
 ## 基本情報
 
@@ -10,26 +10,39 @@
 |X(Twitter)|[@takaharu_niki](https://twitter.com/takaharu_niki)|
 |趣味|筋トレ・アニメ|
 
-## 概要
+## 得意技術
 
-- バックエンド開発が専門です。最も得意な言語/フレームワークはPHP/Laravelです。Kotlin/Spring Bootの開発も可能です。
-- 周辺技術としては、AWS/Nginx/MySQL/Docker等を使った開発が得意です。
-- フロントエンド開発はNext.jsの経験があります。
-- GitHub　ActionsやAWSを利用したCI/CD環境構築等のDevOps業務の経験があります。
+### 言語
 
-### 得意技術
+PHP || Python | Kotlin | Java | JavaScript || Go | TypeScript 
 
-得意
-PHP, Laravel, MySQL, AWS, GitHub Actions
+### フレームワーク
 
-可能
-Python, Kotlin, Spring Boot, javaScript, TypeScript, Next.js, React, Docker, Nginx
+Laravel || Spring Boot | CakePHP | Next.js | React | Vue.js
+
+### RDB/NoSQL
+
+MySQL || PostgreSQL | Redis | Memcached
+
+### AWS
+
+VPC | S3 | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Route53 | IAM | Cognito | RDS(MySQL) | Aurora | DynamoDB | ElastiCache(Redis|Memcached) | SNS | SES | CloudFormation | CloudWatch | EventBridge | Secrets Manager | Amplify | CodeBuild | CodeDeploy | CodePipeline 
+
+### SaaS/PaaS
+GitHub | GitHub Actions | BitBucket | Datadog
+
+### その他
+Docker | Jenkins | Fluentd| Ansible | Nginx | Apache | Gulp | Webpack | SASS
+
+## 得意分野
+
+SQLチューニング、TDDによる安全なコード変更、CI/CDによるチーム開発生産性の向上、IaCを用いた効率的なリソース管理、やらないことを見極める戦略的思考
 
 ## 主な業務経歴
 
 ### 宅食サービス事業会社(2021/09〜現在)
 
-Laravelのアップグレード【Laravel】(2023/12〜現在)
+Laravelのアップグレード【Laravel】(2023/12〜2023/12)
 
 【プロジェクト概要】Laravelアップグレードにおける計画と実行。
 
