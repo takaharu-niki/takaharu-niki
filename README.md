@@ -32,7 +32,7 @@ VPC | S3 | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Route53 | IAM | Co
 GitHub | GitHub Actions | BitBucket | Datadog
 
 ### その他
-Docker | Jenkins | Fluentd| Ansible | Nginx | Apache | Gulp | Webpack | SASS
+Docker | Jenkins | Fluentd | Ansible | Nginx | Apache | Gulp | Webpack | SASS
 
 ## 得意分野
 
