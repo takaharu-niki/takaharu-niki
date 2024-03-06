@@ -10,6 +10,13 @@
 |X(Twitter)|[@takaharu_niki](https://twitter.com/takaharu_niki)|
 |趣味|筋トレ・アニメ|
 
+## 得意分野
+
+- バックエンド開発が専門です。最も得意な言語/フレームワークはPHP/Laravelです。
+- 周辺技術としては、AWS/Nginx/MySQL/Docker等を使った開発が得意です。
+- フロントエンド開発はNext.jsの経験があります。
+- GitHub　ActionsやAWSを利用したCI/CD環境構築等のDevOps業務の経験があります。
+
 ## 得意技術
 
 ### 言語
@@ -34,9 +41,18 @@ GitHub | GitHub Actions | BitBucket | Datadog
 ### その他
 Docker | Jenkins | Fluentd | Ansible | Nginx | Apache | Gulp | Webpack | SASS
 
-## 得意分野
+## 得意業務
 
-SQLチューニング、TDDによる安全なコード変更、CI/CDによるチーム開発生産性の向上、IaCを用いた効率的なリソース管理、やらないことを見極める戦略的思考
+- SQLチューニング
+- TDDを用いた安全なコード変更
+- デプロイの自動化
+- インフラのコード化
+- LinterやFormatterの導入
+- 単体テストの導入
+- CIサービスの導入
+- コンテナ化(Docker化)
+- オートスケールの設定
+- デプロイの自動化
 
 ## 主な業務経歴
 
